@@ -8,6 +8,9 @@ changes from GitHub
 feature1
 
 feature2
+merge conflict demo
+
+hello world
 
 main testing
 
